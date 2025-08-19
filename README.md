@@ -1,2 +1,2 @@
 # mini_project
-Built a clone of SBI online NetBanking application.
+Developing a clone of SBI online NetBanking application.
